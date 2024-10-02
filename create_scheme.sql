@@ -24,7 +24,7 @@ CREATE TABLE IF NOT EXISTS PostTypes (
 CREATE TABLE IF NOT EXISTS Badges (
     id INT,
     badge_title VARCHAR(80),
-    bagde_class TINYINT NOT NULL,
+    badge_class TINYINT NOT NULL,
     PRIMARY KEY (id)
 );
 --
