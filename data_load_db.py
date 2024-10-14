@@ -2,10 +2,10 @@ import pandas as pd
 import mysql.connector as mysql
 
 # Database configuration
-db_user = 'avnadmin'
-db_password = 'AVNS_592DGU0nSa5ssouh1tg'
-db_host = 'mysql-group11-p1-shivambavaria1313-2f9c.b.aivencloud.com'
-db_port = '28090'
+db_user = 'xyzadmin'
+db_password = ''
+db_host = 'mysql-group11-p1-xyzabcdqw1313-2f9c.b.aivencloud.com'
+db_port = '3301'
 db_schema = 'GROUP11P1'
 
 files = ['./datafiles/Badges.csv', './datafiles/Comments.csv','./datafiles/PostTypes.csv','./datafiles/Posts.csv','./datafiles/PostTags.csv','./datafiles/Tags.csv','./datafiles/Users.csv','./datafiles/Votes.csv']
